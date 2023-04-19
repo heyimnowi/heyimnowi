@@ -4,4 +4,4 @@ I am a software engineer based in Barcelona, and I have almost 10 years of exper
 
 💼 [Linkedin](https://www.linkedin.com/in/noelia-belén-lópez-fontana-7142a05b/)
 
-📧 [Email](lopeznoeliab@gmail.com)
+📧 [Email](mailto:lopeznoeliab@gmail.com)
